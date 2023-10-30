@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.inicial {
+    background-color: rgb(84, 0, 122);
+    color: rgb(255, 217, 0);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+
+}
+.outra {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+}
+
+#fundo{
+    background-color:black;
+}
